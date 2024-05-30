@@ -17,9 +17,6 @@ function App() {
         <MyPageButton />
       </main>
     </div>
-    // <div>
-
-    // </div>
   );
 }
 
