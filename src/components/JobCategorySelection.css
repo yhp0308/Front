@@ -1,0 +1,19 @@
+.job-category-selection {
+    display: flex;
+    justify-content: center;
+    margin: 20px 0;
+  }
+  
+  .job-category {
+    margin: 0 10px;
+  }
+  
+  .job-category h3 {
+    margin-bottom: 10px;
+  }
+  
+  .job-category select {
+    width: 200px;
+    height: 150px;
+  }
+  
