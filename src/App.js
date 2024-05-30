@@ -10,13 +10,16 @@ function App() {
   return (
     <div className="App">
       <Header />
-      <main>
+      <main> 
         <SearchButtons />
         <JobCategorySelection />
         <NavigationButtons />
         <MyPageButton />
       </main>
     </div>
+    // <div>
+
+    // </div>
   );
 }
 
